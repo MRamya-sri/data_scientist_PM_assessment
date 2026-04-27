@@ -85,24 +85,6 @@ ARIMA outperformed Prophet on this 14-day horizon. The ensemble didn't beat the 
 
 ---
 
-## 📁 Repository Structure
-
-```
-.
-├── README.md                          ← you are here
-├── requirements.txt                   ← Python dependencies
-├── notebooks/
-│   └── weather_forecasting.ipynb      ← main analysis notebook
-├── outputs/
-│   ├── figures/                       ← all generated plots
-│   ├── model_comparison.csv
-│   ├── top_polluted_cities.csv
-│   └── project_summary.json
-└── demo/
-    └── demo_link.md                   ← link to demo video
-```
-
----
 
 ## ▶️ How to Run
 
@@ -162,4 +144,4 @@ I'm Ramya Sri, an MSc Artificial Intelligence student at Northumbria University 
 
 ---
 
-*Submitted as part of the Product Manager Accelerator (PMA) Data Scientist Internship technical assessment.*
+*Submitted as part of the PM Accelerator (PMA) Data Scientist Internship technical assessment.*
